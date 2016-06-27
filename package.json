@@ -1,0 +1,19 @@
+{
+  "name": "autoprotocol",
+  "version": "0.0.1",
+  "description": "Library for expressing experiments and generating autoprotocol json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autoprotocol/autoprotocol-js.git"
+  },
+  "author": "Transcriptic, Inc",
+  "license": "BSD-3-Clause-Attribution",
+  "bugs": {
+    "url": "https://github.com/autoprotocol/autoprotocol-js/issues"
+  },
+  "homepage": "https://github.com/autoprotocol/autoprotocol-js#readme"
+}
